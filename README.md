@@ -1,4 +1,9 @@
 ### Hi there 👋
+Hi!
+I'm a student at National Institute of Technology, Toyota Collage.
+
+I love to develop web apps :)
+
 
 <!--
 **onsd/onsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
