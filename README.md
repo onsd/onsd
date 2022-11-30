@@ -6,6 +6,7 @@
 
 Hi!
 
+Further information: https://www.wantedly.com/id/onsd_
 <!--
 **onsd/onsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
